@@ -1,6 +1,6 @@
 schemaVersion: 2.2.2
 metadata:
-  name: reactjs-web-app
+  name: shopping-cart-react-devspace
 components:
   - name: tools
     container:
