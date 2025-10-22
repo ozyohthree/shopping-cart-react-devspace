@@ -4,7 +4,7 @@ metadata:
 components:
   - name: tools
     container:
-      image: registry.redhat.io/devspaces/udi-rhel9:3.22
+      image: quay.io/redhat-cop/devspaces-nodejs-18:latest
       endpoints:
         - exposure: public
           name: nodejs
