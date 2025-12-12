@@ -1,4 +1,4 @@
-# Simple shopping cart React 18 app
+# Shopping Cart React 18 app
 
 ### SSH (Experimental) Desktop IDE
 
